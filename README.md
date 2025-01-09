@@ -10,19 +10,13 @@ I am a quant finance graduate with an extensive interest in software solitions t
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
-<br />
-
-<img align="left" alt="Microsoft Word" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Word_2013_logo.svg" />
+<img align="left" alt="Microsoft Word" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" />
 <img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
-<img align="left" alt="Microsoft PowerPoint" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Microsoft_PowerPoint_2013_logo.svg" />
-<img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_Access_2013_logo.svg" />
+<img align="left" alt="Microsoft PowerPoint" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" />
+<img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" />
 
-<img align="left" alt="Microsoft Word" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-word.png" />
-<img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-excel.png" />
-<img align="left" alt="Microsoft PowerPoint" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-powerpoint.png" />
-<img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-access.png" />
-<br />
-<br />
+
+---
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
