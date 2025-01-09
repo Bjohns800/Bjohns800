@@ -13,7 +13,7 @@ I am a quant finance graduate with an extensive interest in software solitions t
 <br />
 
 <img align="left" alt="Microsoft Word" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Word_2013_logo.svg" />
-<img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" />
+<img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
 <img align="left" alt="Microsoft PowerPoint" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Microsoft_PowerPoint_2013_logo.svg" />
 <img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_Access_2013_logo.svg" />
 
