@@ -23,7 +23,7 @@ I am a quant finance graduate with an extensive interest in software solitions t
   <img alt="CSS" title="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="Dart" title="Dart" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img alt="Android" title="Android" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img alt="Android" title="Android Studio" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 
 </div>
 
