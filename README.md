@@ -17,7 +17,11 @@ I am a quant finance graduate with an extensive interest in software solitions t
 <img align="left" alt="Microsoft PowerPoint" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Microsoft_PowerPoint_2013_logo.svg" />
 <img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_Access_2013_logo.svg" />
 
-
+<img align="left" alt="Microsoft Word" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-word.png" />
+<img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-excel.png" />
+<img align="left" alt="Microsoft PowerPoint" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-powerpoint.png" />
+<img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-access.png" />
+<br />
 <br />
 
 
