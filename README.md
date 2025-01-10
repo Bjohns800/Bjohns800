@@ -1,6 +1,6 @@
 # Ben Johnston
 
-I am a quant finance graduate with an extensive interest in software solitions to problems within finance and ouitsidee of finance.
+I am a quant finance graduate with an extensive interest in software solitions to problems within finance and ouitside of finance.
 10 years of coding experience
 
 ---
